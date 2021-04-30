@@ -25,6 +25,7 @@
                 <version>2.12.4</version>
                 <inherited>true</inherited>
                 <configuration>
+                    <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
